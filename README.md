@@ -2,6 +2,7 @@
 
 ## Description
 568 People - Face Detection & Face 106 Landmarks & Human Body Segmentation Annotation Data in Online Conference Scenes. The ethnic groups include East Asians, Caucasians, Blacks, and Browns, with a primary focus on young adults. Various indoor office scenes were captured, including meeting rooms, cafes, libraries, and bedrooms. In terms of annotation, each individual consists of 61 to 64 photos, with annotations for detected facial bounding boxes and 106 facial landmarks, as well as segmentation annotations for the human body. The data can be used for tasks such as facial detection, 106 facial landmark recognition, and human body segmentation.
+
 For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/1586?source=Github
 
 ## Specifications
